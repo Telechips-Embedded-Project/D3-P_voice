@@ -1,4 +1,4 @@
-# On-Device Voice Recognition program using LLMs
+# On-Device Voice Recognition system using LLMs
 
 #### 1. Using two Vosk model for Speech-To-Text (wake word detection + STT)
 #### 2. Parsing voice command (dispatcher)
