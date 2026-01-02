@@ -10,5 +10,5 @@
 <img width="689" height="764" alt="image" src="https://github.com/user-attachments/assets/591ea0c2-5438-4058-be4c-a860df324c41" />
 
 
-<br>
-STT(Vosk), LLM(BitNet), TTS(Piper) integration
+<br><br>
+#### STT(Vosk), LLM(BitNet), TTS(Piper) integration code included.
